@@ -1,18 +1,18 @@
 import { useTranslation } from 'next-i18next';
+import { pomStyles } from '@/styles/utils';
+import { H2, Paragraph } from './ui/Typography';
 
 const About = () => {
   const { t } = useTranslation('common');
 
   return (
-    <section id="about" className="py-16 bg-white">
-      <div className="container mx-auto px-4">
-        <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-3xl font-bold text-gray-800 mb-6">
-            {t('about.title')}
-          </h2>
-          <p className="text-xl text-gray-600">
+    <section id="about" className={pomStyles.section.default}>
+      <div className={`${pomStyles.container} text-center`}>
+        <div className="max-w-3xl mx-auto">
+          <H2>{t('about.title')}</H2>
+          <Paragraph variant="secondary" className="text-xl">
             {t('about.description')}
-          </p>
+          </Paragraph>
         </div>
       </div>
     </section>

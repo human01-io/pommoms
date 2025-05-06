@@ -1,4 +1,5 @@
 import { useRouter } from 'next/router';
+import { pomStyles } from '@/styles/utils';
 
 const LanguageSwitcher = () => {
   const router = useRouter();
@@ -10,13 +11,21 @@ const LanguageSwitcher = () => {
   return (
     <div className="flex space-x-2">
       <button
-        className={`px-2 py-1 rounded ${router.locale === 'en' ? 'bg-pink-100 text-pink-700' : 'text-gray-500 hover:text-pink-700'}`}
+        className={`${pomStyles.langSwitcher.buttonBase} ${
+          router.locale === 'en' 
+            ? pomStyles.langSwitcher.buttonActive 
+            : pomStyles.langSwitcher.buttonInactive
+        }`}
         onClick={() => changeLanguage('en')}
       >
         EN
       </button>
       <button
-        className={`px-2 py-1 rounded ${router.locale === 'es' ? 'bg-pink-100 text-pink-700' : 'text-gray-500 hover:text-pink-700'}`}
+        className={`${pomStyles.langSwitcher.buttonBase} ${
+          router.locale === 'es' 
+            ? pomStyles.langSwitcher.buttonActive 
+            : pomStyles.langSwitcher.buttonInactive
+        }`}
         onClick={() => changeLanguage('es')}
       >
         ES

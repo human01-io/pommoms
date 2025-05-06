@@ -3,12 +3,12 @@ import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 import type { GetStaticProps } from 'next';
 import Head from 'next/head';
 
-import Header from '../components/Header';
-import Hero from '../components/Hero';
-import About from '../components/About';
-import Features from '../components/Features';
-import WaitlistForm from '../components/WaitlistForm';
-import Footer from '../components/Footer';
+import Navbar from '@/components/Navbar';
+import Hero from '@/components/Hero';
+import About from '@/components/About';
+import Features from '@/components/Features';
+import WaitlistForm from '@/components/WaitlistForm';
+import Footer from '@/components/Footer';
 
 export default function Home() {
   const { t } = useTranslation('common');
@@ -22,14 +22,16 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <Header />
-        <Hero />
-        <About />
-        <Features />
-        <WaitlistForm />
+      <div className="bg-pom-bg text-pom-text font-sans min-h-screen">
+        <Navbar />
+        <main>
+          <Hero />
+          <About />
+          <Features />
+          <WaitlistForm />
+        </main>
         <Footer />
-      </main>
+      </div>
     </>
   );
 }
