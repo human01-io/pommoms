@@ -1,0 +1,74 @@
+{
+    "meta": {
+      "title": "PomMoms - Web3 Social Platform for Pomeranian Lovers",
+      "description": "PomMoms is a growing community for Pomeranian lovers. Share, connect, and earn rewards!"
+    },
+    "header": {
+      "home": "Home",
+      "about": "About",
+      "features": "Features",
+      "join": "Join Waitlist"
+    },
+    "hero": {
+      "title": "PomMoms",
+      "subtitle": "Web3 Social Platform for Pomeranian Lovers",
+      "description": "A community made for people who love their Pomeranians like family.",
+      "cta": "Join Waitlist"
+    },
+    "about": {
+      "title": "What is PomMoms?",
+      "description": "PomMoms is a new community especially designed for people like you: Pomeranian lovers who want to share, connect, and pamper their furry friends in a fun and unique way."
+    },
+    "features": {
+      "title": "What can you do on PomMoms?",
+      "items": [
+        {
+          "icon": "📸",
+          "title": "Share Special Moments",
+          "description": "Upload photos and special moments of your Pom."
+        },
+        {
+          "icon": "🐾",
+          "title": "Create Your Pom's Profile",
+          "description": "Add your Pomeranian's name, birthday, age, and best photo."
+        },
+        {
+          "icon": "💬",
+          "title": "Meet Other Pom Parents",
+          "description": "See what others are posting and share experiences."
+        },
+        {
+          "icon": "🎁",
+          "title": "Earn Rewards",
+          "description": "Receive special points (tokens) just for registering or posting."
+        },
+        {
+          "icon": "🧩",
+          "title": "Redeem Points",
+          "description": "Exchange your points later for prizes, accessories, or benefits within the app."
+        }
+      ]
+    },
+    "register": {
+      "title": "How do I register?",
+      "description": "You can sign in very easily with your Google or Facebook account. And if you want to explore more advanced features later (like tokens), you can also connect a digital wallet with a few simple steps."
+    },
+    "community": {
+      "title": "PomMoms is more than a social network",
+      "description": "It's a safe, fun community focused 100% on the love for Pomeranians. Here, we all understand what it means to have a playful, sweet, and personality-filled furry friend. And yes, here Poms have their own space to shine."
+    },
+    "waitlist": {
+      "title": "Join the Waitlist!",
+      "subtitle": "If you're a Pom Mom or Dad, you're already part of the family.",
+      "placeholder": "Your email address",
+      "button": "I want to be part of PomMoms",
+      "success": "Thank you! We'll be in touch soon.",
+      "error": "Oops! Something went wrong. Please try again."
+    },
+    "footer": {
+      "rights": "Made with love, paws, and tokens 🐾",
+      "contact": "Contact us:",
+      "email": "hello@pommoms.xyz",
+      "instagram": "@pom.moms"
+    }
+  }
