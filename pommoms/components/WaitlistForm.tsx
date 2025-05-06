@@ -18,7 +18,7 @@ const WaitlistForm = () => {
       // For demonstration purposes, let's just show success
       setStatus('success');
       setEmail('');
-    } catch (_) {
+    } catch (error) {
       setStatus('error');
     }
   };
