@@ -25,7 +25,8 @@ const Hero = () => {
           </div>
           <div className="md:w-1/2 relative h-72 md:h-96 w-full">
             <Image 
-              src="/images/hero2.jpg" 
+              src="/images/hero2.jpg"
+              alt="PomMom" 
               width={600}
               height={400}
               className="rounded-lg shadow-lg object-cover"
