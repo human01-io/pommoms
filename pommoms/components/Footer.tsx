@@ -19,12 +19,12 @@ const Footer = () => {
         <div className="text-center md:text-right">
           <p className="font-medium text-[var(--pom-text-secondary)]">{t('footer.contact')}</p>
           <p className="mt-1">
-            <a href="mailto:hello@pommoms.xyz" className="text-[var(--pom-accent)] hover:text-[var(--pom-accent-light)]">
+            <a href="mailto:contact-us@pommoms.com" className="text-[var(--pom-accent)] hover:text-[var(--pom-accent-light)]">
               {t('footer.email')}
             </a>
           </p>
           <p className="mt-1">
-            <a href="https://instagram.com/pom.moms" target="_blank" rel="noopener noreferrer" className="text-[var(--pom-accent)] hover:text-[var(--pom-accent-light)]">
+            <a href="https://instagram.com/pommoms.sol" target="_blank" rel="noopener noreferrer" className="text-[var(--pom-accent)] hover:text-[var(--pom-accent-light)]">
               {t('footer.instagram')}
             </a>
           </p>

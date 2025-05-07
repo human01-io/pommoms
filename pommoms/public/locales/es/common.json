@@ -52,13 +52,46 @@
     "description": "Es una comunidad segura, divertida y enfocada 100% en el amor por los Pomeranias. Aquí todos entendemos lo que significa tener un peludo travieso, dulce y lleno de personalidad. Y sí, aquí los Poms tienen su propio lugar para brillar."
   },
   "waitlist": {
-    "title": "¡Únete a la lista de espera!",
-    "subtitle": "Si eres Mamá o Papá Pom, ya eres parte de la familia.",
-    "placeholder": "Tu dirección de email",
-    "button": "Quiero ser parte de PomMoms",
-    "success": "¡Gracias! Nos pondremos en contacto pronto.",
-    "error": "¡Ups! Algo salió mal. Por favor, inténtalo de nuevo."
-  },
+  "title": "¡Únete a la lista de espera!",
+  "subtitle": "Si eres Mamá o Papá Pom, ya eres parte de la familia.",
+  "placeholder": "Tu dirección de email",
+  "button": "Quiero ser parte de PomMoms",
+  "next_button": "Siguiente",
+  "back_button": "Atrás",
+  "submit_button": "Unirme a la lista",
+  "success": "¡Gracias! Nos pondremos en contacto pronto.",
+  "error": "¡Ups! Algo salió mal. Por favor, inténtalo de nuevo.",
+  "privacy_agreement": "Acepto el procesamiento de mi información personal de acuerdo con la",
+  "privacy_link": "Política de Privacidad",
+  "privacy_error": "Debes aceptar la Política de Privacidad para continuar.",
+  "user_type_label": "¿Qué te trae a PomMoms?",
+  "select_option": "Por favor selecciona una opción",
+  "user_type_pom_owner": "Soy un orgulloso padre/madre de un Pom",
+  "user_type_future_pom_owner": "Estoy considerando tener un Pomerania",
+  "user_type_solana_enthusiast": "Me interesan los proyectos Web3 enfocados en mascotas",
+  "user_type_general_follower": "Me gustan los perros y las comunidades de mascotas",
+  "num_poms_label": "¿Cuántos Pomeranias tienes?",
+  "num_poms_0": "Ninguno aún, pero pienso tener uno",
+  "num_poms_1": "Un Pom",
+  "num_poms_2": "Dos Poms",
+  "num_poms_3plus": "Tres o más Poms",
+  "solana_experience_label": "¿Cuál es tu experiencia con Solana/crypto?",
+  "solana_exp_none": "Sin experiencia aún",
+  "solana_exp_beginner": "Principiante (Tengo una wallet)",
+  "solana_exp_intermediate": "Intermedio (He usado DeFi o NFTs)",
+  "solana_exp_advanced": "Avanzado (Estoy muy familiarizado con Web3)",
+  "primary_interest_label": "¿Qué te interesa más de PomMoms?",
+  "interest_community": "Comunidad y conectar con otros dueños de Poms",
+  "interest_rewards": "Ganar recompensas y tokens",
+  "interest_profiles": "Crear perfiles para mi(s) Pom(s)",
+  "interest_events": "Eventos y encuentros con otros Poms",
+  "interest_adoption": "Red de adopción",
+  "interest_solana": "Innovación en Solana/Web3",
+  "other_info_label": "¿Hay algo más que te gustaría compartir con nosotros?",
+  "other_info_placeholder": "Cuéntanos qué esperas ver en PomMoms...",
+  "follow_socials": "¡Síguenos en redes sociales para recibir actualizaciones mientras construimos!",
+  "select_multiple": "(Selecciona todas las que apliquen)"
+},
   "footer": {
     "rights": "Hecho con amor, patitas y tokens 🐾",
     "contact": "Contáctanos:",
@@ -67,5 +100,58 @@
   },
   "language": {
     "select": "Seleccionar Idioma"
+  },
+  "privacy": {
+    "title": "Aviso de Privacidad",
+    "close_button": "Cerrar",
+    "intro": "En cumplimiento con lo establecido por la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (México) y el Reglamento General de Protección de Datos (GDPR) de la Unión Europea, hacemos de su conocimiento lo siguiente:",
+    "section1": {
+      "title": "1. Identidad y domicilio del responsable",
+      "content": "PomMoms es un proyecto operado por sus fundadores con sede en Puebla, México. Para cualquier duda relacionada con este aviso, puedes contactarnos en:",
+      "contact": "Correo electrónico: privacy@pommoms.com"
+    },
+    "section2": {
+      "title": "2. Datos personales recabados",
+      "item1": "Nombre",
+      "item2": "Correo electrónico",
+      "item3": "Dirección de wallet (opcional)",
+      "item4": "Intereses relacionados con mascotas"
+    },
+    "section3": {
+      "title": "3. Finalidades del tratamiento",
+      "content": "Tus datos personales serán utilizados para las siguientes finalidades:",
+      "item1": "Enviarte actualizaciones sobre el lanzamiento de PomMoms",
+      "item2": "Agregarte a nuestra lista de espera y comunidad",
+      "item3": "Ofrecerte beneficios exclusivos por ser parte de la etapa inicial",
+      "item4": "Informarte sobre eventos, servicios o promociones relacionadas con PomMoms",
+      "secondary_title": "Finalidades secundarias (opcionales):",
+      "secondary_item1": "Análisis interno para mejorar nuestros productos o servicios"
+    },
+    "section4": {
+      "title": "4. Transferencia de datos",
+      "content": "Tus datos no serán compartidos con terceros sin tu consentimiento, salvo obligación legal. En caso de integrarse servicios de terceros (como plataformas de email marketing), estos se sujetarán a políticas de privacidad equivalentes."
+    },
+    "section5": {
+      "title": "5. Derechos ARCO",
+      "content": "Puedes acceder, rectificar, cancelar u oponerte al uso de tus datos personales enviando un correo a privacy@pommoms.com. Tu solicitud debe contener:",
+      "item1": "Nombre completo",
+      "item2": "Correo registrado",
+      "item3": "Petición concreta",
+      "item4": "Identificación oficial (para validar identidad)"
+    },
+    "section6": {
+      "title": "6. Uso de cookies y tecnologías de rastreo",
+      "content": "Este sitio puede usar cookies para análisis estadístico y mejora de experiencia. Puedes configurar tu navegador para rechazarlas o eliminar cookies existentes."
+    },
+    "section7": {
+      "title": "7. Seguridad",
+      "content": "Implementamos medidas técnicas, administrativas y físicas para proteger tus datos. Toda la comunicación se realiza a través de conexiones seguras (HTTPS)."
+    },
+    "section8": {
+      "title": "8. Cambios al Aviso",
+      "content": "Este aviso puede ser modificado en cualquier momento. Cualquier cambio será notificado en nuestro sitio web."
+    },
+    "last_updated": "Última actualización",
+    "update_date": "6 de mayo de 2025"
   }
 }

@@ -1,21 +1,21 @@
 {
-    "meta": {
-      "title": "PomMoms - Web3 Social Platform for Pomeranian Lovers",
-      "description": "PomMoms is a growing community for Pomeranian lovers. Share, connect, and earn rewards!"
-    },
-    "header": {
-      "home": "Home",
-      "about": "About",
-      "features": "Features",
-      "join": "Join Waitlist"
-    },
-    "hero": {
-      "title": "PomMoms",
-      "subtitle": "Web3 Social Platform for Pomeranian Lovers",
-      "description": "A community made for people who love their Pomeranians like family.",
-      "cta": "Join Waitlist"
-    },
-    "about": {
+  "meta": {
+    "title": "PomMoms - Web3 Social Platform for Pomeranian Lovers",
+    "description": "PomMoms is a growing community for Pomeranian lovers. Share, connect, and earn rewards!"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "features": "Features",
+    "join": "Join Waitlist"
+  },
+  "hero": {
+    "title": "PomMoms",
+    "subtitle": "Web3 Social Platform for Pomeranian Lovers",
+    "description": "A community made for people who love their Pomeranians like family.",
+    "cta": "Join Waitlist"
+  },
+  "about": {
     "title": "What is PomMoms?",
     "story_title": "Our Story: A Pom, a Family, a Social Network Like No Other",
     "story_content": "We are Alex, Yesi, and Bruno—a dog-loving family who found in our love for Pomeranians the inspiration for something much bigger: PomMoms, the first social network designed exclusively for those who live with, care for, or simply love Pomeranians, and for those who dream of being part of their world.",
@@ -43,29 +43,115 @@
     "early_adopter_title": "Early Adopter Benefits",
     "early_adopter_description": "Those who join from the beginning will receive special rewards, as you'll be part of a history that's about to be written."
   },
-    "register": {
-      "title": "How do I register?",
-      "description": "You can sign in very easily with your Google or Facebook account. And if you want to explore more advanced features later (like tokens), you can also connect a digital wallet with a few simple steps."
+  "register": {
+    "title": "How do I register?",
+    "description": "You can sign in very easily with your Google or Facebook account. And if you want to explore more advanced features later (like tokens), you can also connect a digital wallet with a few simple steps."
+  },
+  "community": {
+    "title": "PomMoms is more than a social network",
+    "description": "It's a safe, fun community focused 100% on the love for Pomeranians. Here, we all understand what it means to have a playful, sweet, and personality-filled furry friend. And yes, here Poms have their own space to shine."
+  },
+  "waitlist": {
+  "title": "Join the Waitlist!",
+  "subtitle": "If you're a Pom Mom or Dad, you're already part of the family.",
+  "placeholder": "Your email address",
+  "button": "I want to be part of PomMoms",
+  "next_button": "Next",
+  "back_button": "Back",
+  "submit_button": "Join Waitlist",
+  "success": "Thank you! We'll be in touch soon.",
+  "error": "Oops! Something went wrong. Please try again.",
+  "privacy_agreement": "I agree to the processing of my personal information in accordance with the",
+  "privacy_link": "Privacy Policy",
+  "privacy_error": "You must accept the Privacy Policy to continue.",
+  "user_type_label": "What brings you to PomMoms?",
+  "select_option": "Please select an option",
+  "user_type_pom_owner": "I'm a proud Pom parent",
+  "user_type_future_pom_owner": "I'm considering getting a Pomeranian",
+  "user_type_solana_enthusiast": "I'm interested in pet-focused Web3 projects",
+  "user_type_general_follower": "I'm a fan of dogs and pet communities",
+  "num_poms_label": "How many Pomeranians do you have?",
+  "num_poms_0": "None yet, but planning to get one",
+  "num_poms_1": "One Pom",
+  "num_poms_2": "Two Poms",
+  "num_poms_3plus": "Three or more Poms",
+  "solana_experience_label": "What's your experience with Solana/crypto?",
+  "solana_exp_none": "No experience yet",
+  "solana_exp_beginner": "Beginner (I have a wallet)",
+  "solana_exp_intermediate": "Intermediate (I've used DeFi or NFTs)",
+  "solana_exp_advanced": "Advanced (I'm very familiar with Web3)",
+  "primary_interest_label": "What interests you most about PomMoms?",
+  "interest_community": "Community & connecting with other Pom owners",
+  "interest_rewards": "Earning rewards & tokens",
+  "interest_profiles": "Creating profiles for my Pom(s)",
+  "interest_events": "Events & meetups with other Poms",
+  "interest_adoption": "Adoption network",
+  "interest_solana": "Solana/Web3 innovation",
+  "other_info_label": "Is there anything else you'd like to share with us?",
+  "other_info_placeholder": "Tell us what you hope to see in PomMoms...",
+  "follow_socials": "Follow us on social media for updates while we build!",
+  "select_multiple": "(Select all that apply)"
+},
+  "footer": {
+    "rights": "Made with love, paws, and tokens 🐾",
+    "contact": "Contact us:",
+    "email": "hello@pommoms.xyz",
+    "instagram": "@pom.moms"
+  },
+  "language": {
+    "select": "Select Language"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "close_button": "Close",
+    "intro": "In compliance with the Federal Law on Protection of Personal Data Held by Private Parties (Mexico) and the General Data Protection Regulation (GDPR) of the European Union, we inform you of the following:",
+    "section1": {
+      "title": "1. Identity and address of the responsible party",
+      "content": "PomMoms is a project operated by its founders based in Puebla, Mexico. For any questions related to this notice, you can contact us at:",
+      "contact": "Email: privacy@pommoms.com"
     },
-    "community": {
-      "title": "PomMoms is more than a social network",
-      "description": "It's a safe, fun community focused 100% on the love for Pomeranians. Here, we all understand what it means to have a playful, sweet, and personality-filled furry friend. And yes, here Poms have their own space to shine."
+    "section2": {
+      "title": "2. Personal data collected",
+      "item1": "Name",
+      "item2": "Email",
+      "item3": "Wallet address (optional)",
+      "item4": "Interests related to pets"
     },
-    "waitlist": {
-      "title": "Join the Waitlist!",
-      "subtitle": "If you're a Pom Mom or Dad, you're already part of the family.",
-      "placeholder": "Your email address",
-      "button": "I want to be part of PomMoms",
-      "success": "Thank you! We'll be in touch soon.",
-      "error": "Oops! Something went wrong. Please try again."
+    "section3": {
+      "title": "3. Purpose of data processing",
+      "content": "Your personal data will be used for the following purposes:",
+      "item1": "Send you updates about the launch of PomMoms",
+      "item2": "Add you to our waitlist and community",
+      "item3": "Offer you exclusive benefits for being part of the initial stage",
+      "item4": "Inform you about events, services, or promotions related to PomMoms",
+      "secondary_title": "Secondary purposes (optional):",
+      "secondary_item1": "Internal analysis to improve our products or services"
     },
-    "footer": {
-      "rights": "Made with love, paws, and tokens 🐾",
-      "contact": "Contact us:",
-      "email": "hello@pommoms.xyz",
-      "instagram": "@pom.moms"
+    "section4": {
+      "title": "4. Data transfer",
+      "content": "Your data will not be shared with third parties without your consent, except for legal obligation. In case third-party services are integrated (such as email marketing platforms), they will be subject to equivalent privacy policies."
     },
-    "language": {
-      "select": "Select Language"
-    }
+    "section5": {
+      "title": "5. ARCO Rights",
+      "content": "You can access, rectify, cancel or oppose the use of your personal data by sending an email to privacy@pommoms.com. Your request must contain:",
+      "item1": "Full name",
+      "item2": "Registered email",
+      "item3": "Specific request",
+      "item4": "Official identification (to validate identity)"
+    },
+    "section6": {
+      "title": "6. Use of cookies and tracking technologies",
+      "content": "This site may use cookies for statistical analysis and experience improvement. You can configure your browser to reject them or delete existing cookies."
+    },
+    "section7": {
+      "title": "7. Security",
+      "content": "We implement technical, administrative, and physical measures to protect your data. All communication is done through secure connections (HTTPS)."
+    },
+    "section8": {
+      "title": "8. Changes to the Notice",
+      "content": "This notice may be modified at any time. Any changes will be notified on our website."
+    },
+    "last_updated": "Last updated",
+    "update_date": "May 6, 2025"
   }
+}
