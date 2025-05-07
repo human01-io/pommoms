@@ -5,7 +5,14 @@ const nextConfig: NextConfig = {
   i18n,
   reactStrictMode: true,
   images: {
-    domains: ['images.unsplash.com'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+        pathname: '/**',
+      },
+      // Add any other domains you need here
+    ],
   },
 };
 

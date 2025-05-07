@@ -11,8 +11,6 @@ import Features from '@/components/Features';
 import WaitlistForm from '@/components/WaitlistForm';
 import Footer from '@/components/Footer';
 
-import '../styles/globals.css';
-
 export default function Home() {
   const { t } = useTranslation('common');
 
