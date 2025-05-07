@@ -1,5 +1,4 @@
 import { useTranslation } from 'next-i18next';
-import { pomStyles } from '@/styles/utils';
 
 const Footer = () => {
   const { t } = useTranslation('common');
