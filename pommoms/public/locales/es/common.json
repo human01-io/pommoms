@@ -1,74 +1,71 @@
 {
-    "meta": {
-      "title": "PomMoms - Plataforma Social Web3 para Amantes de Pomeranias",
-      "description": "PomMoms es una comunidad creciente para amantes de Pomeranias. ¡Comparte, conecta y gana recompensas!"
-    },
-    "header": {
-      "home": "Inicio",
-      "about": "Acerca",
-      "features": "Funciones",
-      "join": "Únete a la Lista"
-    },
-    "hero": {
-      "title": "PomMoms",
-      "subtitle": "Plataforma Social Web3 para Amantes de Pomeranias",
-      "description": "Una comunidad hecha para personas que aman a sus Pomeranias como familia.",
-      "cta": "Únete a la Lista"
-    },
-    "about": {
-      "title": "¿Qué es PomMoms?",
-      "description": "PomMoms es una nueva comunidad pensada especialmente para personas como tú: amantes de los Pomeranias que quieren compartir, conectar y consentir a sus peludos de una forma divertida y única."
-    },
-    "features": {
-      "title": "¿Qué puedes hacer en PomMoms?",
-      "items": [
-        {
-          "icon": "📸",
-          "title": "Comparte Momentos Especiales",
-          "description": "Sube fotos y momentos especiales de tu Pom."
-        },
-        {
-          "icon": "🐾",
-          "title": "Crea el Perfil de tu Pom",
-          "description": "Agrega el nombre, cumpleaños, edad y mejor foto de tu Pomerania."
-        },
-        {
-          "icon": "💬",
-          "title": "Conoce a Otros Papás Pom",
-          "description": "Ve lo que publican otros y comparte experiencias."
-        },
-        {
-          "icon": "🎁",
-          "title": "Gana Recompensas",
-          "description": "Recibe puntos especiales (tokens) solo por registrarte o publicar."
-        },
-        {
-          "icon": "🧩",
-          "title": "Canjea tus Puntos",
-          "description": "Intercambia tus puntos más adelante por premios, accesorios o beneficios dentro de la app."
-        }
-      ]
-    },
-    "register": {
-      "title": "¿Cómo me registro?",
-      "description": "Puedes entrar de forma muy sencilla con tu cuenta de Google o Facebook. Y si más adelante quieres explorar funciones más avanzadas (como los tokens), también podrás conectar una billetera digital con unos simples pasos."
-    },
-    "community": {
-      "title": "PomMoms es más que una red social",
-      "description": "Es una comunidad segura, divertida y enfocada 100% en el amor por los Pomeranias. Aquí todos entendemos lo que significa tener un peludo travieso, dulce y lleno de personalidad. Y sí, aquí los Poms tienen su propio lugar para brillar."
-    },
-    "waitlist": {
-      "title": "¡Únete a la lista de espera!",
-      "subtitle": "Si eres Mamá o Papá Pom, ya eres parte de la familia.",
-      "placeholder": "Tu dirección de email",
-      "button": "Quiero ser parte de PomMoms",
-      "success": "¡Gracias! Nos pondremos en contacto pronto.",
-      "error": "¡Ups! Algo salió mal. Por favor, inténtalo de nuevo."
-    },
-    "footer": {
-      "rights": "Hecho con amor, patitas y tokens 🐾",
-      "contact": "Contáctanos:",
-      "email": "hello@pommoms.xyz",
-      "instagram": "@pom.moms"
-    }
+  "meta": {
+    "title": "PomMoms - Plataforma Social Web3 para Amantes de Pomeranias",
+    "description": "PomMoms es una comunidad creciente para amantes de Pomeranias. ¡Comparte, conecta y gana recompensas!"
+  },
+  "header": {
+    "home": "Inicio",
+    "about": "Acerca",
+    "features": "Funciones",
+    "join": "Únete a la Lista"
+  },
+  "hero": {
+    "title": "PomMoms",
+    "subtitle": "Plataforma Social Web3 para Amantes de Pomeranias",
+    "description": "Una comunidad hecha para personas que aman a sus Pomeranias como familia.",
+    "cta": "Únete a la Lista"
+  },
+  "about": {
+    "title": "¿Qué es PomMoms?",
+    "story_title": "Nuestra Historia: un Pom, una Familia, una Red Social como Ninguna Otra",
+    "story_content": "Somos Alex, Yesi y Bruno —una familia perruna que encontró en el amor por los Pomeranians una inspiración para algo mucho más grande: PomMoms, la primera red social pensada exclusivamente para quienes viven con, cuidan o simplemente aman a los Poms… y a quienes sueñan con ser parte de su mundo.",
+    "community_content": "PomMoms no es solo para quienes ya tienen un Pom. Es para todos los que quieren formar parte de una comunidad que comparte valores, experiencias y cariño por los perritos —Poms o no Poms—.",
+    "blockchain_powered": "Impulsado por la tecnología blockchain de Solana"
+  },
+  "features": {
+    "title": "¿Qué puedes hacer en PomMoms?",
+    "subtitle": "Únete a nuestra vibrante comunidad y disfruta de estas increíbles funciones, ¡con más por venir!",
+    "profile_title": "Crear Perfiles",
+    "profile_description": "Crea un perfil para ti y tu amigo peludo, compartiendo su historia y conectando con otras Mamás y Papás Pom.",
+    "alert_title": "Alertas de Mascotas Perdidas",
+    "alert_description": "Reporta un Pom perdido y activa una alerta con recompensa para ayudar a traerlo a casa sano y salvo.",
+    "adoption_title": "Red de Adopción",
+    "adoption_description": "Adopta un Pom o ayuda a otros a encontrar hogares permanentes para estos adorables compañeros.",
+    "map_title": "Mapa PomFriendly",
+    "map_description": "Explora lugares recomendados por la comunidad donde tu Pom será recibido con los brazos abiertos.",
+    "market_title": "Mercado",
+    "market_description": "Vende o compra productos y servicios, como grooming, collares, snacks o clases de obediencia.",
+    "events_title": "Eventos y Encuentros",
+    "events_description": "Asiste y organiza paseos, fiestas o reuniones en tu ciudad con otros entusiastas de los Poms.",
+    "blockchain_title": "Recompensas Web3 Próximamente",
+    "blockchain_description": "Estamos integrando tokenomics sobre la red Solana, para que toda tu actividad dentro de la plataforma se convierta en algo con valor. ¡PomMoms tendrá su propia criptomoneda con valor en el mundo real!",
+    "powered_by_solana": "Impulsado por Solana",
+    "early_adopter_title": "Beneficios para Adoptadores Tempranos",
+    "early_adopter_description": "Quienes se sumen desde el principio recibirán recompensas especiales, porque serán parte de la historia que está por escribirse."
+  },
+  "register": {
+    "title": "¿Cómo me registro?",
+    "description": "Puedes entrar de forma muy sencilla con tu cuenta de Google o Facebook. Y si más adelante quieres explorar funciones más avanzadas (como los tokens), también podrás conectar una billetera digital con unos simples pasos."
+  },
+  "community": {
+    "title": "PomMoms es más que una red social",
+    "description": "Es una comunidad segura, divertida y enfocada 100% en el amor por los Pomeranias. Aquí todos entendemos lo que significa tener un peludo travieso, dulce y lleno de personalidad. Y sí, aquí los Poms tienen su propio lugar para brillar."
+  },
+  "waitlist": {
+    "title": "¡Únete a la lista de espera!",
+    "subtitle": "Si eres Mamá o Papá Pom, ya eres parte de la familia.",
+    "placeholder": "Tu dirección de email",
+    "button": "Quiero ser parte de PomMoms",
+    "success": "¡Gracias! Nos pondremos en contacto pronto.",
+    "error": "¡Ups! Algo salió mal. Por favor, inténtalo de nuevo."
+  },
+  "footer": {
+    "rights": "Hecho con amor, patitas y tokens 🐾",
+    "contact": "Contáctanos:",
+    "email": "hello@pommoms.xyz",
+    "instagram": "@pom.moms"
+  },
+  "language": {
+    "select": "Seleccionar Idioma"
   }
+}

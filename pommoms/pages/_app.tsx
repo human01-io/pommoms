@@ -4,9 +4,9 @@ import '../styles/globals.css';
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <>
+    <div className="flex flex-col min-h-screen bg-[var(--pom-bg)]">
       <Component {...pageProps} />
-    </>
+    </div>
   );
 }
 

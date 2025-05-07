@@ -1,3 +1,4 @@
+
 import { useTranslation } from 'next-i18next';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 import type { GetStaticProps } from 'next';
@@ -9,6 +10,8 @@ import About from '@/components/About';
 import Features from '@/components/Features';
 import WaitlistForm from '@/components/WaitlistForm';
 import Footer from '@/components/Footer';
+
+import '../styles/globals.css';
 
 export default function Home() {
   const { t } = useTranslation('common');
@@ -22,9 +25,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="bg-pom-bg text-pom-text font-sans min-h-screen">
+      <div className="flex flex-col min-h-screen bg-[var(--pom-bg)] text-[var(--pom-text)] font-sans">
         <Navbar />
-        <main>
+        <main className="flex-grow">
           <Hero />
           <About />
           <Features />

@@ -40,7 +40,7 @@ const WaitlistForm = () => {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 placeholder={t('waitlist.placeholder')}
-                className="px-4 py-3 w-full md:flex-grow rounded-md border border-pom-border bg-pom-bg text-pom-text focus:outline-none focus:ring-2 focus:ring-pom-accent"
+                className="px-4 py-3 w-full md:flex-grow rounded-md border border-[var(--pom-border)] bg-[var(--pom-bg-tertiary)] text-[var(--pom-text)] focus:outline-none focus:ring-2 focus:ring-[var(--pom-accent)]"
                 required
                 disabled={status === 'loading' || status === 'success'}
               />
